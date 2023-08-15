@@ -5,7 +5,7 @@
 // @supportURL       https://github.com/smintf/duohacker/issues
 // @version          1.0.5
 // @description      An autoanswer script for Duolingo.
-// @author           Smint <smintoverflow@gmail.com>
+// @author           robin <mailrobinfrancis@gmail.com>
 // @copyright        Smint
 // @match            https://www.duolingo.com/skill*
 // @match            https://www.duolingo.com/alphabet*
